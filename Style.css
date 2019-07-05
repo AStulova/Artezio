@@ -1,0 +1,98 @@
+﻿body {
+    background-color: #e8e8ea;
+    font-family: Arial, Verdana, sans-serif;
+    color: dimgrey;
+}
+
+.lrect { 
+    width: 275px;
+    background: #36353b;
+    padding: 10px;
+    position: fixed;
+}
+
+.rrect {
+    position: fixed;
+    margin-left: 380px;
+}
+
+h1, h2, h3 {
+    color: white;
+    line-height: 0.7em;
+}
+
+h3 {
+    color: darkgrey;
+    margin-bottom: 30px;
+}
+
+.hblue {
+    text-indent: 0.5em;
+    font-size: 20px;
+    line-height: 0.3em;
+    color: #39a5cb;
+}
+
+.lefttext {
+    color: darkgrey;
+    line-height: 0.6em;
+}
+
+hr.leftline {
+    border: none;
+    height: 1px;
+    color: #39a5cb;
+    background-color: #39a5cb;
+}
+
+hr.rightline {
+    height: 1px;
+    width: 600px;
+    color: darkgrey;
+    background-color: darkgrey;
+}
+
+a:link {
+    text-decoration: none;
+    color: darkgrey;
+}
+
+a:visited {
+    color: darkgrey;
+}
+
+.rightheader {
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+.year {
+    position: relative;
+    top: 100px;
+}
+
+.lan {
+    position: relative;
+}
+
+.info {
+    position: relative;
+    left: 120px;
+    width: 460px;
+    padding-bottom: 20px;
+}
+
+.tab {
+    position: relative;
+    left: 120px;
+    bottom: 210px;
+}
+
+table {
+    width: 400px;
+}
+td {
+    padding: 4px;
+    border: 2px solid darkgrey;
+    text-align: center;
+}
